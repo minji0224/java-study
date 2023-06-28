@@ -33,4 +33,8 @@ public class MyService extends Thread {
 //            }
 //        }
 //    }
+
+
+
+    // 주석추가
 }
